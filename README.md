@@ -8,4 +8,4 @@ or condense lengthy messages, Sum-Trans is the perfect tool for students, profes
 processing on the go.
 
 
-![Portfolio Preview](https://github.com/mumerbajwa/SumTrans-app-master/blob/main/README.md)
+(https://github.com/mumerbajwa/SumTrans-app-master/blob/main/README.md)
